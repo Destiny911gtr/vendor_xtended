@@ -111,6 +111,12 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     DU-Fonts
 
+# Themes
+PRODUCT_PACKAGES += \
+    SystemDarkTheme \
+    PixelTheme \
+    Stock
+
 # Extra tools
 PRODUCT_PACKAGES += \
     openvpn \
