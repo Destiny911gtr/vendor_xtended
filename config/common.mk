@@ -113,6 +113,7 @@ PRODUCT_PACKAGES += \
 
 # Themes
 PRODUCT_PACKAGES += \
+    SettingsDarkTheme \
     SystemDarkTheme \
     PixelTheme \
     Stock
