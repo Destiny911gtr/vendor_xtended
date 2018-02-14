@@ -113,10 +113,10 @@ PRODUCT_PACKAGES += \
 
 # Themes
 PRODUCT_PACKAGES += \
-    DuiDarkTheme \
-    GBoardDarkTheme \
-    SettingsDarkTheme \
-    SystemDarkTheme \
+    DuiDark \
+    GBoardDark \
+    SettingsDark \
+    SystemDark \
     PixelTheme \
     Stock
 
